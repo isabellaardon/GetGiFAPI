@@ -1,0 +1,9 @@
+/* Your Styles Here */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+display-div img {
+    margin: 10px;
+    width: 200px;
+}
